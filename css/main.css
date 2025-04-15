@@ -1,0 +1,22 @@
+#canvasid
+{
+
+  border: 1px solid;
+}
+
+img,
+#player,
+#block,
+#boom,
+#explode_left,
+#explode_up
+{
+  display: none;
+}
+
+body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
